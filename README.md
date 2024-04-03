@@ -1,1 +1,2 @@
-# Credit_Card_Tracker
+# MindClicks
+Mental wellbeing website created for Aurora techweek hackathon
